@@ -1,0 +1,20 @@
+.ant-table-content, .ant-badge, .ant-table-footer {
+  font-family: Vazirmatn;
+}
+
+table {  
+  table-layout: fixed;
+  direction: rtl;
+}
+
+th, td {
+  text-align: center !important;
+}
+
+td:last-child {
+  direction: ltr;
+}
+
+.ant-table-footer {
+  direction: rtl;
+}
