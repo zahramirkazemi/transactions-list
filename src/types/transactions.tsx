@@ -1,9 +1,9 @@
 interface Transactions {
-  amount: number;
+  amount: number | string;
   trackId: number;
   status: number;
   paidAt: string;
-  cardNumber: string;
+  cardNumber: string | string;
 }
 
 export default Transactions;
