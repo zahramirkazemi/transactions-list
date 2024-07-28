@@ -1,6 +1,6 @@
 {
   "homepage": "https://zahramirkazemi.github.io/transactions-list",
-  "name": "transaction-list",
+  "name": "transactions-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
